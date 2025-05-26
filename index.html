@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head><title>HansdaFireJS Logs</title></head>
+<body>
+  <h3 style="color: red; text-align: center;">🔐 Firewall Monitoring</h3>
+  <pre id="logOutput">Fetching log...</pre>
+  <script>
+    fetch('/firewall.log')
+      .then(res => res.text())
+      .then(data => document.getElementById('logOutput').innerText = data);
+  </script>
+</body>
+</html>
