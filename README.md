@@ -159,9 +159,11 @@ Cybersecurity Enthusiast • Security Researcher • Open Source Developer
 
 ### Connect
 
-* GitHub
-* Instagram
-* Email
+[![GitHub](https://img.shields.io/badge/GitHub-Hero24--x-181717?style=for-the-badge&logo=github)](https://github.com/Hero24-x)
+
+[![Instagram](https://img.shields.io/badge/Instagram-@ethicalhansda-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ethicalhansda)
+
+[![Email](https://img.shields.io/badge/Email-hansdatechs24@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hansdatechs24@gmail.com)
 
 ---
 
